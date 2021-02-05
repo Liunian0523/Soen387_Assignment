@@ -1,0 +1,5 @@
+{
+    "maxposts": 10,
+    "adminGroupName": "admin",
+    "className": "usermanagerIMP.UserManager"
+}
